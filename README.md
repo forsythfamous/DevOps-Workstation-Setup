@@ -8,4 +8,4 @@
 - VS Code
 
 ## Author
-[Forsyth Famous] — SKILL.SCH Cloud Lab
+Forsyth Famous — SKILL.SCH Cloud Lab
